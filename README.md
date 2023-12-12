@@ -1,5 +1,6 @@
 **MiFinanzs**
 
+
 Bienvenido a MiFinanzs, tu solución personal de gestión financiera. Este proyecto está diseñado para ayudarte a llevar un control efectivo de tus finanzas personales de una manera sencilla y eficiente.
 
 [MiFinanzs](https://c14-17-ft-node-react.vercel.app/)
@@ -25,3 +26,5 @@ Herramientas utilizadas
 | Victor Morales      | Frontend          | [Linkedin](https://www.linkedin.com/in/victorpahomo) |
 | Esmir Roque Castellano | Frontend       | [Linkedin](https://www.linkedin.com/in/esmir-roque) |
 | Lucas Barceló       | Frontend          | [Linkedin](https://www.linkedin.com/in/lucas-barcelo11) |## Initial commit
+
+https://www.youtube.com/watch?v=hRrg5v0wMfI&ab_channel=NazarenoSusunday
